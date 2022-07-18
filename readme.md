@@ -1,15 +1,14 @@
 ## Author name
 spur237
 
-## project name
-real estate
 
 ## Description
-This project is about a design of real house estate
+This project is about a design of a real eastate
 
 
 
 ## Program setup instructions
-This program of street food is also found in other medias.It well describes our services.
+This program of real estate is also
 
-view link
+## view link
+this link will take you to my project{()}
